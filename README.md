@@ -1,5 +1,5 @@
 # OMDbClient
-A demo app the demonstrates the usage of the OMDb API https://www.omdbapi.com.
+A demo app the demonstrates the usage of the OMDb API https://www.omdbapi.com. Built using Swift 5 and Xcode 11.1
 
 # Quick Look
 [![animatede18a3938ec2586a9.gif](https://s5.gifyu.com/images/animatede18a3938ec2586a9.gif)](https://gifyu.com/image/vBVh)
